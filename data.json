@@ -1,0 +1,236 @@
+[
+    {
+      "id": "1",
+      "symbol": "A",
+      "letter": "A",
+      "pronunciation": ["/ə,eɪ/"],
+      "vowel": true,
+      "letter_image": "./images/a.jpg",
+      "history": "The letter A is the first letter of the English alphabet. It originated from the Phoenician letter aleph, which meant ox. In Greek, it became alpha, which also meant ox. The uppercase form of A has two slanting sides meeting at a point to form a triangle, while the lowercase form resembles a circle with a tail."
+    },
+    {
+      "id": "2",
+      "symbol": "B",
+      "letter": "B",
+      "pronunciation": ["/biː/", "/b/"],
+      "vowel": false,
+      "letter_image": "./images/b.jpg",
+      "history": "The letter B is the second letter of the English alphabet. It originated from the Phoenician letter bet, which meant house. In Greek, it became beta, which also meant house. The uppercase form of B resembles a square with a protrusion at the bottom, while the lowercase form looks similar to the uppercase but without the protrusion."
+    },
+    {
+      "id": "3",
+      "symbol": "C",
+      "letter": "C",
+      "pronunciation": ["/siː/", "/k/"],
+      "vowel": false,
+      "letter_image": "./images/c.jpg",
+      "history": "The letter C is the third letter of the English alphabet. It originated from the Phoenician letter gimel, which meant camel. In Greek, it became gamma, which also meant camel. The uppercase form of C looks like a crescent moon, while the lowercase form resembles a half-circle."
+    },
+    {
+      "id": "4",
+      "symbol": "D",
+      "letter": "D",
+      "pronunciation": ["/diː/", "/d/"],
+      "vowel": false,
+      "letter_image": "./images/d.jpg",
+      "history": "The letter D is the fourth letter of the English alphabet. It originated from the Phoenician letter dalet, which meant door. In Greek, it became delta, which also meant door. The uppercase form of D resembles a right angle triangle, while the lowercase form is similar but without the right angle."
+    },
+    {
+      "id": "5",
+      "symbol": "E",
+      "letter": "E",
+      "pronunciation": ["/iː/", "/ɛ/"],
+      "vowel": true,
+      "letter_image": "./images/e.jpg",
+      "history": "The letter E is the fifth letter of the English alphabet. It originated from the Phoenician letter he, which meant window. In Greek, it became epsilon, which also meant window. The uppercase form of E resembles a square with two horizontal lines, while the lowercase form is similar but without the lines."
+    },
+    {
+      "id": "6",
+      "symbol": "F",
+      "letter": "F",
+      "pronunciation": ["/ɛf/", "/f/"],
+      "vowel": false,
+      "letter_image": "./images/f.jpg",
+      "history": "The letter F is the sixth letter of the English alphabet. It originated from the Phoenician letter waw, which meant nail. In Greek, it became digamma, which also meant nail. The uppercase form of F resembles a vertical line with two horizontal lines crossing it, while the lowercase form is similar but without the vertical line."
+    },
+    {
+      "id": "7",
+      "symbol": "G",
+      "letter": "G",
+      "pronunciation": ["/dʒiː/", "/ɡ/"],
+      "vowel": false,
+      "letter_image": "./images/g.jpg",
+      "history": "The letter G is the seventh letter of the English alphabet. It originated from the Phoenician letter gimel, which meant camel. In Greek, it became gamma, which also meant camel. The uppercase form of G resembles a circle with a protrusion, while the lowercase form is similar but without the protrusion."
+    },
+    {
+      "id": "8",
+      "symbol": "H",
+      "letter": "H",
+      "pronunciation": ["/eɪtʃ/", "/h/"],
+      "vowel": false,
+      "letter_image": "./images/h.jpg",
+      "history": "The letter H is the eighth letter of the English alphabet. It originated from the Phoenician letter heth, which meant fence. In Greek, it became eta, which also meant fence. The uppercase form of H looks like a ladder with a diagonal bar, while the lowercase form is similar but without the diagonal bar."
+    },
+    {
+      "id": "9",
+      "symbol": "I",
+      "letter": "I",
+      "pronunciation": ["/aɪ/", "/ɪ/"],
+      "vowel": true,
+      "letter_image": "./images/i.jpg",
+      "history": "The letter I is the ninth letter of the English alphabet. It originated from the Phoenician letter yodh, which meant hand. In Greek, it became iota, which also meant hand. The uppercase form of I resembles a straight line, while the lowercase form is similar but shorter."
+    },
+    {
+      "id": "10",
+      "symbol": "J",
+      "letter": "J",
+      "pronunciation": ["/dʒeɪ/", "/dʒ/"],
+      "vowel": false,
+      "letter_image": "./images/j.jpg",
+      "history": "The letter J is the tenth letter of the English alphabet. It originated as a variation of the letter I. In Latin, it was used interchangeably with I and represented the consonant sound /i/. In modern English, J represents the consonant sound /dʒ/. The uppercase form of J is similar to I but with a hook at the bottom, while the lowercase form is similar but without the hook."
+    },
+    {
+      "id": "11",
+      "symbol": "K",
+      "letter": "K",
+      "pronunciation": ["/keɪ/", "/k/"],
+      "vowel": false,
+      "letter_image": "./images/k.jpg",
+      "history": "The letter K is the eleventh letter of the English alphabet. It originated from the Phoenician letter kaph, which meant palm. In Greek, it became kappa, which also meant palm. The uppercase form of K resembles an inverted triangle with a horizontal line, while the lowercase form is similar but without the horizontal line."
+    },
+    {
+          "id": "12",
+          "symbol": "L",
+          "letter": "L",
+          "pronunciation": ["/ɛl/", "/l/"],
+          "vowel": false,
+          "letter_image": "./images/l.jpg",
+          "history": "The letter L is the twelfth letter of the English alphabet. It originated from the Phoenician letter lamed, which meant goad. In Greek, it became lambda, which also meant goad. The uppercase form of L resembles a straight line with a vertical line at the bottom, while the lowercase form is similar but without the vertical line."
+        },
+        {
+          "id": "13",
+          "symbol": "M",
+          "letter": "M",
+          "pronunciation": ["/ɛm/", "/m/"],
+          "vowel": false,
+          "letter_image": "./images/m.jpg",
+          "history": "The letter M is the thirteenth letter of the English alphabet. It originated from the Phoenician letter mem, which meant water. In Greek, it became mu, which also meant water. The uppercase form of M resembles two slanted lines meeting at the bottom, while the lowercase form is similar but without the slant."
+        },      
+        {
+          "id": "14",
+          "symbol": "N",
+          "letter": "N",
+          "pronunciation": ["/ɛn/", "/n/"],
+          "vowel": false,
+          "letter_image": "./images/n.jpg",
+          "history": "The letter N is the fourteenth letter of the English alphabet. It originated from the Phoenician letter nun, which meant fish. In Greek, it became nu, which also meant fish. The uppercase form of N resembles a slanted line, while the lowercase form is similar but with a curve at the bottom."
+        },
+        {
+          "id": "15",
+          "symbol": "O",
+          "letter": "O",
+          "pronunciation": ["/oʊ/", "/ɒ/"],
+          "vowel": true,
+          "letter_image": "./images/o.jpg",
+          "history": "The letter O is the fifteenth letter of the English alphabet. It originated from the Phoenician letter ayin, which meant eye. In Greek, it became omicron, which also meant eye. The uppercase form of O is a circle, while the lowercase form is similar but smaller."
+        },
+        {
+          "id": "16",
+          "symbol": "P",
+          "letter": "P",
+          "pronunciation": ["/piː/", "/p/"],
+          "vowel": false,
+          "letter_image": "./images/p.jpg",
+          "history": "The letter P is the sixteenth letter of the English alphabet. It originated from the Phoenician letter pe, which meant mouth. In Greek, it became pi, which also meant mouth. The uppercase form of P resembles a circle with a straight line, while the lowercase form is similar but without the line."
+        },
+        {
+          "id": "17",
+          "symbol": "Q",
+          "letter": "Q",
+          "pronunciation": ["/kjuː/", "/kw/"],
+          "vowel": false,
+          "letter_image": "./images/q.jpg",
+          "history": "The letter Q is the seventeenth letter of the English alphabet. It originated from the Phoenician letter qoph, which meant monkey. In Greek, it became theta, which also meant monkey. The uppercase form of Q is similar to O with a tail, while the lowercase form is similar but smaller and without the tail."
+        },
+        {
+          "id": "18",
+          "symbol": "R",
+          "letter": "R",
+          "pronunciation": ["/ɑːr/", "/r/"],
+          "vowel": false,
+          "letter_image": "./images/r.jpg",
+          "history": "The letter R is the eighteenth letter of the English alphabet. It originated from the Phoenician letter resh, which meant head. In Greek, it became rho, which also meant head. The uppercase form of R resembles a P with an extra leg, while the lowercase form is similar but without the extra leg."
+        },
+        {
+          "id": "19",
+          "symbol": "S",
+          "letter": "S",
+          "pronunciation": ["/ɛs/", "/s/"],
+          "vowel": false,
+          "letter_image": "./images/s.jpg",
+          "history": "The letter S is the nineteenth letter of the English alphabet. It originated from the Phoenician letter shin, which meant tooth. In Greek, it became sigma, which also meant tooth. The uppercase form of S resembles a snake, while the lowercase form is similar but without the curves."
+        },
+        {
+          "id": "20",
+          "symbol": "T",
+          "letter": "T",
+          "pronunciation": ["/tiː/", "/t/"],
+          "vowel": false,
+          "letter_image": "./images/t.jpg",
+          "history": "The letter T is the twentieth letter of the English alphabet. It originated from the Phoenician letter taw, which meant mark. In Greek, it became tau, which also meant mark. The uppercase form of T resembles an inverted L, while the lowercase form is similar but without the vertical line."
+        },
+        {
+          "id": "21",
+          "symbol": "U",
+          "letter": "U",
+          "pronunciation": ["/juː/", "/ʌ/"],
+          "vowel": true,
+          "letter_image": "./images/u.jpg",
+          "history": "The letter U is the twenty-first letter of the English alphabet. It originated from the Phoenician letter waw, which meant hook. In Greek, it became upsilon, which also meant hook. The uppercase form of U resembles a curved line, while the lowercase form is similar but smaller."
+        },
+        {
+          "id": "22",
+          "symbol": "V",
+          "letter": "V",
+          "pronunciation": ["/viː/", "/v/"],
+          "vowel": false,
+          "letter_image": "./images/v.jpg",
+          "history": "The letter V is the twenty-second letter of the English alphabet. It originated from the Phoenician letter waw, which meant hook. In Greek, it became upsilon, which also meant hook. The uppercase form of V resembles a V shape, while the lowercase form is similar but smaller."
+        },
+        {
+          "id": "23",
+          "symbol": "W",
+          "letter": "W",
+          "pronunciation": ["/ˈdʌbəljuː/", "/w/"],
+          "vowel": false,
+          "letter_image": "./images/w.jpg",
+          "history": "The letter W is the twenty-third letter of the English alphabet. It originated as a variation of the letter V. In Latin, it was used interchangeably with V and represented the consonant sound /w/. In modern English, W represents the consonant sound /w/. The uppercase form of W resembles two V's joined together, while the lowercase form is similar but smaller."
+        },
+        {
+          "id": "24",
+          "symbol": "X",
+          "letter": "X",
+          "pronunciation": ["/ɛks/", "/ks/"],
+          "vowel": false,
+          "letter_image": "./images/x.jpg",
+          "history": "The letter X is the twenty-fourth letter of the English alphabet. It originated from the Phoenician letter samekh, which meant fish. In Greek, it became chi, which also meant fish. The uppercase form of X resembles a diagonal line crossing another diagonal line, while the lowercase form is similar but smaller."
+        },
+        {
+          "id": "25",
+          "symbol": "Y",
+    "letter": "Y",
+    "pronunciation": ["/waɪ/", "/j/"],
+    "vowel": true,
+    "letter_image": "./images/y.jpg",
+    "history": "The letter Y is the twenty-fifth letter of the English alphabet. It originated as a variation of the letter I. In Latin, it was used interchangeably with I and represented both the vowel sound /iː/ and the consonant sound /j/. In modern English, Y represents the consonant sound /j/ and sometimes the vowel sound /aɪ/. The uppercase form of Y is similar to I, while the lowercase form is similar but with a tail."
+  },
+  {
+    "id": "26",
+    "symbol": "Z",
+    "letter": "Z",
+    "pronunciation": ["/ziː/", "/z/"],
+    "vowel": false,
+    "letter_image": "./images/z.jpg",
+    "history": "The letter Z is the twenty-sixth letter of the English alphabet. It originated from the Phoenician letter zayin, which meant weapon. In Greek, it became zeta, which also meant weapon. The uppercase form of Z resembles a diagonal line, while the lowercase form is similar but without the diagonal line."
+  }
+]
